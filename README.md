@@ -24,4 +24,5 @@ The script accepts adding multiple data for users ( valid and invalid ).
 
 
 **How to run the project**
+
 Please use testng.xml file to run the project.
