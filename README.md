@@ -23,6 +23,5 @@ The configuration file contains the website URL and the Drivers paths.
 The script accepts adding multiple data for users ( valid and invalid ).
 
 
-**How to run the project
-**
+**How to run the project**
 Please use testng.xml file to run the project.
